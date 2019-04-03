@@ -1,0 +1,19 @@
+{
+  "name": "anexceptionhomepage",
+  "version": "1.0.0",
+  "description": "Anexceptipn Personal Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alijamaliz/AnexceptionHomePage.git"
+  },
+  "author": "Ali Jamali Zavare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alijamaliz/AnexceptionHomePage/issues"
+  },
+  "homepage": "https://github.com/alijamaliz/AnexceptionHomePage#readme"
+}
