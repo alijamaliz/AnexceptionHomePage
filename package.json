@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/alijamaliz/AnexceptionHomePage/issues"
   },
-  "homepage": "https://github.com/alijamaliz/AnexceptionHomePage#readme"
+  "homepage": "https://github.com/alijamaliz/AnexceptionHomePage#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cachebust": "0.0.10",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "run-sequence": "^2.2.1"
+  }
 }
